@@ -6,3 +6,4 @@ theme = "hyde"
 [params]
   themeColor = "theme-base-09"
   description = "AS204994 network page"
+  copyright = "Tiernan OToole 2017. All rights reserved."

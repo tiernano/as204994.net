@@ -9,7 +9,7 @@ AS204994 is the [Autonomous System][1] of [Limited Slip Networks][2].
 
 BGP details about the ASN are available though:
 
-* [Hirricane Electric BGP portal][3]
+* [Hurricane Electric BGP portal][3]
 
 
 [1]:https://en.wikipedia.org/wiki/Autonomous_system_(Internet)limited
