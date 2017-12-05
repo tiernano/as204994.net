@@ -1,8 +1,8 @@
 baseurl = "."
 languageCode = "en-us"
-title = "ASN204994"
+title = "AS204994"
 theme = "hyde"
 
 [params]
   themeColor = "theme-base-09"
-  description = "ASN204994 network page"
+  description = "AS204994 network page"
