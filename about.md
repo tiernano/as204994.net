@@ -4,15 +4,19 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+AS204994 is the [Autonomous System][1] of [Limited Slip Networks][2].
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+BGP details about the ASN are available though:
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+* [Hurricane Electric BGP portal][3]
+* [Peering DB page][6]
+
+Currently we are annoucning a /48 IPv6 block though both [Hurricane Electric][4] and [Vultr][5].
 
 
-[jekyll-organization]: https://github.com/jekyll
+[1]:https://en.wikipedia.org/wiki/Autonomous_system_(Internet)limited
+[2]:http://www.limitedslipnetworks.net
+[3]:https://bgp.he.net/AS204994
+[4]:https://www.he.net/
+[5]:https://www.vultr.com/?ref=6925432
+[6]:https://www.peeringdb.com/asn/204994
