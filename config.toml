@@ -1,0 +1,95 @@
+baseURL = "https://as204994.net/"
+languageCode = "en-us"
+title = "AS204994"
+theme = "minimo"
+
+[permalinks]
+page = "/:slug/"
+
+[[menu.main]]
+name = "Peering DB"
+weight = -9
+identifier = "peeringdb"
+url = "https://www.peeringdb.com/net/15369"
+
+[[menu.main]]
+name = "Huricane Electric BGP"
+weight = -8
+identifier = "henet"
+url = "https://bgp.he.net/as204994"
+
+
+[params.copyright]
+prefix = ""
+holder = "Tiernan OToole"
+startYear = "2017"
+suffix = ""
+
+[params.settings]
+# date & time format: https://golang.org/pkg/time/
+dateFormat = "2006, Jan 02"
+listDateFormat = "2006, Jan 02"
+archiveDateFormat = "Jan 02"
+hideEntryNavigation = ["page"] # boolean / array of sections
+showReadingTime = true
+showLastmod = true
+taxonomyCloudShuffle = true
+accentColor = "#ffcd00"
+hideMainMenu = false
+
+[params.sidebar]
+enable = true
+
+
+disqusShortname = ""
+googleAnalytics = ""
+
+Paginate = 5
+preserveTaxonomyNames = true
+
+enableRobotsTXT = true # generate robots.txt
+
+# Syntax Highlighting ( https://gohugo.io/content-management/syntax-highlighting/ )
+pygmentsCodefences = true
+
+enableEmoji = true
+
+# Missing translations will default to this content language
+defaultContentLanguage = "en"
+
+[params.info]
+description = "Network info for AS204994"
+title404 = "Nothing's here!"
+
+
+# About Widget config
+[about]
+title = ""                            # default: .Site.Title
+description = ""                      # default: .Site.Params.info.description
+logo = "/images/logo.png"             # default: "/images/logo.png"
+
+# Recent Posts Widget config
+[recent_posts]
+title = ""                            # default: "Recent Posts"
+length = 4                            # default: 5
+excludeTypes = ["page"]               # default: ["page"]
+
+# Search Widget config
+[search]
+title = "Search"                      # default: "Search"
+
+# Sidebar Menu Widget config
+[sidebar_menu]
+title = ""                            # default: ""
+mirror = ""                           # default: ""
+
+# Social Menu Widget config
+[social_menu]
+title = ""                            # default: ""
+platforms = ["github","facebook","twitter","instagram","email","codepen","gitlab","linkedin","telegram","google_scholar","youtube"]
+
+# Taxonomy Cloud Widget config
+[taxonomy_cloud]
+title = ""                            # default: Plural Name for `taxonomyCloud.taxonomy`
+taxonomy = "tags"                     # default: "tags"
+shuffle = true                        # default: true
