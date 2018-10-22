@@ -22,7 +22,9 @@ weight: -270
 
 ## Upstream providers IPv4
 * [Choopa, LLC (AS20473)](https://bgp.he.net/AS20473)
-* [DevCapsule Ltd (AS9178)](https://bgp.he.net/AS9178)
+* [Stefan Dunkel (AS205591)](https://bgp.he.net/AS205591)
+* [Packet Host, Inc. (AS54825)](https://bgp.he.net/AS54825)
+* [Marek Ziolkowski trading as M&M Networks (AS206499)](https://bgp.he.net/AS206499)
 
 ## Upstream providers IPv6
 
@@ -32,6 +34,7 @@ weight: -270
 ## Public Exchange Points
 
 * [EVIX](https://www.evix.org)
+* [LocIX](https://locix.online)
 
 ## Private Exchange Points
 * None... yet...
