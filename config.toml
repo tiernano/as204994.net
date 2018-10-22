@@ -2,6 +2,7 @@ baseURL = "https://as204994.net/"
 languageCode = "en-us"
 title = "AS204994"
 theme = "minimo"
+googleAnalytics = "UA-220614-24"
 
 [permalinks]
 page = "/:slug/"
