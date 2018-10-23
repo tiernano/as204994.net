@@ -33,8 +33,9 @@ weight: -270
 
 ## Public Exchange Points
 
-* [EVIX](https://www.evix.org)
-* [LocIX](https://locix.online)
+* [EVIX](https://www.evix.org) [PeeringDB](https://www.peeringdb.com/ix/2274) [bgp.he.net](https://bgp.he.net/exchange/EVIX)
+* [LocIX](https://locix.online) [PeeringDB](https://www.peeringdb.com/ix/2084) [bgp.he.net](https://bgp.he.net/exchange/LocIX)
+* [KleyReX](http://www.kleyrex.net) [PeeringDB](https://www.peeringdb.com/ix/123) [bgp.he.net](https://bgp.he.net/exchange/KleyReX)
 
 ## Private Exchange Points
 * None... yet...
