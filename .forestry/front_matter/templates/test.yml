@@ -7,3 +7,5 @@ fields:
   label: title
   name: title
   default: test
+pages:
+- post/test.md
