@@ -6,3 +6,4 @@ fields:
 - type: text
   label: title
   name: title
+  default: test
