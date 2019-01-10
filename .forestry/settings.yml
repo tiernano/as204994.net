@@ -1,7 +1,7 @@
 ---
 new_page_extension: md
 auto_deploy: true
-admin_path: 
+admin_path: ''
 webhook_url: 
 sections:
 - type: directory
@@ -27,4 +27,4 @@ file_template: ":filename:"
 build:
   preview_env:
   - TESTING=yup
-version: '0.50'
+version: '0.53'
