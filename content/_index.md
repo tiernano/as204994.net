@@ -19,6 +19,10 @@ menu:
 * [2a0b:b87:ffe1::/24](https://bgp.he.net/net/2a0b:b87:ffe1::/48)
 * [185.186.67.0/24](https://bgp.he.net/net/185.186.67.0/24)
 
+## Prefix Provider
+
+* I got my ASN and V4/V6 space though [Hostus](https://my.hostus.us/aff.php?aff=2152)
+
 ## Contact
 
 * peering \[at\] as204994 \[dot\] net
@@ -30,6 +34,7 @@ menu:
 * [Packet Host, Inc. (AS54825)](https://bgp.he.net/AS54825)
 * [Hurricane Electric LLC (AS6939)](https://bgp.he.net/AS6939)
 * [SquareFlow Communications Limited (AS49004)](https://bgp.he.net/AS49004)
+* [Stefan Dunkel (AS20559)](https://bgp.he.net/AS205591)
 
 ## Upstream providers IPv6
 
@@ -51,7 +56,7 @@ menu:
 * [Vultr](https://www.vultr.com/?ref=6925432)
 * [Packet](https://www.packet.net)
 * [VServer.Site](https://vserver.site)
-* [Aulerion](https://www.aulerion.com/)
+* [Aulerion](https://www.aulerion.com/aff/52935732)
 
 ## Peering Policy
 
