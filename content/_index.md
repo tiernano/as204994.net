@@ -2,9 +2,9 @@
 title: Home
 weight: -270
 menu:
-  sidebar:
-    weight: -270
   main:
+    weight: -270
+  sidebar:
     weight: -270
 
 ---
@@ -33,13 +33,15 @@ menu:
 * [Choopa, LLC (AS20473)](https://bgp.he.net/AS20473)
 * [Packet Host, Inc. (AS54825)](https://bgp.he.net/AS54825)
 * [Hurricane Electric LLC (AS6939)](https://bgp.he.net/AS6939)
-* [SquareFlow Communications Limited (AS49004)](https://bgp.he.net/AS49004)
 * [Stefan Dunkel (AS20559)](https://bgp.he.net/AS205591)
+* [Marek Ziolkowski trading as M&M Networks (AS206499)](https://bgp.he.net/AS206499)
 
 ## Upstream providers IPv6
 
 * [Hurricane Electric LLC (AS6939)](https://bgp.he.net/AS6939)
 * [Choopa, LLC (AS20473)](https://bgp.he.net/AS20473)
+* [Marek Ziolkowski trading as M&M Networks (AS206499)](https://bgp.he.net/AS206499)
+* [Packet Host, Inc. (AS54825)](https://bgp.he.net/AS54825)
 
 ## Public Exchange Points
 
@@ -56,7 +58,7 @@ menu:
 * [Vultr](https://www.vultr.com/?ref=6925432)
 * [Packet](https://www.packet.net)
 * [VServer.Site](https://vserver.site)
-* [Aulerion](https://www.aulerion.com/aff/52935732)
+* [Hostus](https://my.hostus.us/aff.php?aff=2152)
 
 ## Peering Policy
 
